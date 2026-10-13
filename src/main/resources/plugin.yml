@@ -1,0 +1,10 @@
+name: LifestealCombatLogGuard
+version: '1.0.0'
+main: fr.lifesteal.combatlog.LifestealCombatLogPlugin
+api-version: '1.21'
+author: Camille
+description: >
+  Adds instant combat-log punishment for the Lifesteal datapack: the moment a
+  player disconnects while their combat timer is still running, their
+  inventory drops on the spot, they lose a heart, and their opponent is
+  credited - exactly like a real death, without waiting for them to reconnect.
